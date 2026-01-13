@@ -1,0 +1,15 @@
+{
+  "name": "resawod_booking_js",
+  "version": "1.0.0",
+  "description": "Resawod booking app in JS using JWT login and activity fetch.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dayjs": "^1.11.10"
+  }
+}
+
